@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Lordevil24">Raja Luqman B.</a></h1>
 <h3 align="center">A passionate web developer from Pakuniran, Probolinggo, Indonesia</h3>
-<img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/1BdIPxjo1bd0I/giphy.gif">
 
 - 🔭 I’m currently study on **PP Nurul Jadid**
 

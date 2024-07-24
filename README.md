@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Lordevil24">Raja Luqman B.</a></h1>
 <h3 align="center">A passionate web developer from Pakuniran, Probolinggo, Indonesia</h3>
-<img src="https://media.giphy.com/media/2BzvClPMFEOkI/giphy.gif" alt="Coding in the Matrix" width="400">
+<img src="https://media.giphy.com/media/l41lW6C17JcnlMqqQ/giphy.gif" alt="Programming Madness" width="400" align="right">
 
 
 

@@ -6,24 +6,24 @@
 
 - 🔭 I’m currently study on **PP Nurul Jadid**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **react, vue, laravel, and django**
+- 💬 Ask me about **html, css, java-script, and vue**
 
 - 📫 How to reach me **kingluqman.2008@gmail.com**
 
 - WhatsApp or Mobile Phone Number **+62 858-4756-7602**
 
-- ⚡ Fun fact **No Game No Life**
+- ⚡ Fun fact **code is fun**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin-bottom: 50px">
 <a href="" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ja'far ilham" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Raja Luqman" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/r_ja.24/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_domon" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lordevil_" height="30" width="40" />
 </a>
 <a href="https://wa.me/+6285847567602" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="black_domon" height="30" width="40" />

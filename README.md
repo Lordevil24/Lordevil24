@@ -46,6 +46,6 @@
 ## Activity On GitHub
 <p align="center">
   <a href="https://github.com/Lordevil24">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=black-domon&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lordevil24&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>

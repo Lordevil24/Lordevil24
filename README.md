@@ -36,11 +36,11 @@
 <p align="center"> <a href="https://github.com/Lordevil24"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
 <p align="center"> <a href="https://github.com/Lordevil24"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit"></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bLack-Domon&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="bLack-Domon"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lordevil24&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="Lordevil24"/></p>
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=black-domon&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Lordevil24&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## Activity On GitHub

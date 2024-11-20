@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin-bottom: 50px">
-<a href="" target="blank">
+<a href="" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lordevil24" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/r_ja.24/" target="_blank">

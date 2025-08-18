@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently study on **PP Nurul Jadid**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Odoo**
 
-- 💬 Ask me about **html, css, java-script, and vue**
+- 💬 Ask me about **Web programming**
 
 - 📫 How to reach me **kingluqman.2008@gmail.com**
 
-- WhatsApp or Mobile Phone Number **+62 858-4756-7602**
+- WhatsApp or Mobile Phone Number **+62 822 3323 2112**
 
 - ⚡ Fun fact **code is fun**
 

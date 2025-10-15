@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Lordevil24">Raja Luqman B.</a></h1>
-<h3 align="center">A passionate web developer from Pakuniran, Probolinggo, Indonesia</h3>
+<h3 align="center">A passionate web developer from Paiton, Probolinggo, Indonesia</h3>
 <<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q1ZXowdjNmY3JpbDlsYnhqc2ZiM25xNzQ0cnBkeWdsem44d2NpbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cNfdCiR00n8kCKeuhJ/giphy.gif" alt="Funny Programming Cat" width="380" height="350" align="right">
 
 

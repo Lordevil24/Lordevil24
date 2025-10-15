@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Lordevil24">Raja Luqman B.</a></h1>
 <h3 align="center">A passionate web developer from Pakuniran, Probolinggo, Indonesia</h3>
-<<img src="https://www.pinterest.com/i/1NF9XwR8g/.git" alt="Funny Programming Cat" width="380" height="350" align="right">
+<<img src="https://www.pinterest.com/i/1NF9XwR8g/.gif" alt="Funny Programming Cat" width="380" height="350" align="right">
 
 
 - 🔭 I’m currently study on **PP Nurul Jadid**

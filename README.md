@@ -22,10 +22,10 @@
 <a href="" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lordevil24" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/r_ja.24/" target="_blank">
+<a href="https://www.instagram.com/rajaluqman._/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lordevil24" height="30" width="40" />
 </a>
-<a href="https://wa.me/+6285847567602" target="_blank">
+<a href="https://wa.me/+6282233232112" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Lordevil24" height="30" width="40" />
 </a>
 </p>
